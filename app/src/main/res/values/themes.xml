@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.CosmosSandbox" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:navigationBarColor">#05060A</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:colorAccent">#6BCBFF</item>
+    </style>
+</resources>
